@@ -1,5 +1,12 @@
 ### Hi I'm Holegots 👋
-I'm working at [@Bytedance](https://github.com/bytedance).
+- 🔭 I’m currently working on [@Bytedance](https://github.com/bytedance).
+- 🌱 I’m currently learning Golang/Gin and more.
+- 💬 Ask me about 
+  - 🐍 Python
+  - Node
+- 📫 How to reach me: 
+  - Wechat: holegots
+- ⚡ Fun fact: I really like to eat Chaoshan hot pot.
 <!--
 **fuergaosi233/fuergaosi233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
