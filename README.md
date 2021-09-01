@@ -1,6 +1,6 @@
 ### Hi I'm Holegots 👋
 - 🔭 I’m currently working on [@Bytedance](https://github.com/bytedance).
-- 🌱 I’m currently learning Golang/Gin and more.
+- 🌱 I’m currently learning Typescript/Rust and more.
 - 💬 Ask me about 
   - 🐍 Python
   - Node
