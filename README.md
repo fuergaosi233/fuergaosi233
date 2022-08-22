@@ -4,8 +4,6 @@
 - 💬 Ask me about 
   - 🐍 Python
   - Node
-- 📫 How to reach me: 
-  - Wechat: holegots
 - ⚡ Fun fact: I really like to eat Chaoshan hot pot.
 <!--
 **fuergaosi233/fuergaosi233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
